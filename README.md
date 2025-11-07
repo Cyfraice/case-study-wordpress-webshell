@@ -16,8 +16,7 @@ Analisi tecnica di una compromissione simulata di un'istanza WordPress tramite w
 ## Contenuto del repository
 
 /case-study-wordpress-webshell/
-├── report.pdf # Report professionale (anonimizzato)
-├── screenshots/ # Immagini anonimizzate usate nel report
+├── Golisciano_scenario5.pdf # Report (anonimizzato)
 ├── README.md
 
 
